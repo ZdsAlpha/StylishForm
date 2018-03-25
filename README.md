@@ -2,7 +2,7 @@
 
 Style for Windows Forms.
 
-#Preview
+# Preview
 
 ![Editor](https://raw.githubusercontent.com/ZdsAlpha/StylishForm/master/StylishForm/Temp/2.PNG)
 
